@@ -51,16 +51,8 @@ The dashboard includes key metrics such as:
 
 ## 📷 Dashboard Preview
 
-> *You can add screenshots or GIFs of your dashboard here for a visual preview.*
+![image](https://github.com/user-attachments/assets/eca88939-79aa-4dd9-8030-77e83aa76c8f)
+
 
 ---
 
-## 📂 Project Structure
-
-```bash
-├── Data/
-│   └── medical_sales_data.csv
-├── Dashboard/
-│   └── medical_sales_dashboard.pbix (or .ipynb / .xlsx / based on your tool)
-├── README.md
-└── ...
